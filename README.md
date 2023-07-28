@@ -1,7 +1,7 @@
 # Module 10 Assignment
 This project is a demonstration of the use of SQLAlchemy to connect to a SQLite database (hawaii.sqlite) to perform analysis for climate trends within a year in this repository the following is being demonstrsted
 
-# Precopitation Analysis
+# Precipitation Analysis
  - Created a query to find most recent date, collected years data for precipitation, using DataFrame created a graph showing the results
 
 # Station Analysis
